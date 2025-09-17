@@ -4,7 +4,7 @@
 # Hi, I'm Mainuddin 👋  I'm a web developer building responsive and accessible web apps.  - 🔭 Currently: Learning advanced React patterns - 💻 Skills: HTML · CSS · JavaScript · React - 📫 Contact: mainulislam.d6@gmail.com
 ### Hi there 👋, I am Mainuddin
 #### web developer
-![web developer](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/548162848_774328915329744_3253272962431764389_n.png?_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFHb12FGJB-Wde2SuRkr159uJzFBGTG8ii4nMUEZMbyKF8EQfh4dQ5to_8Z6SNpVOunJl9iT0qKpkKl3Z4JtIQN&_nc_ohc=4dBLT9-fvJsQ7kNvwEFDbVf&_nc_oc=AdndHKgA-BeREOfmeiHQmBxwf-Waw4ZaoXEQUS80SOkinwLEtACWZhCJfgne__dmEr0&_nc_zt=23&_nc_ht=scontent.fdac24-1.fna&_nc_gid=wETTQQaEjLYr4qLugJrHNQ&oh=00_AfaMD_XULUSf0QeX0XxVIeC_hP_jxmE762PxH4l0-QfUAg&oe=68D0ABF3)
+
 
 🌱 Exploring the World of Web Development
 
